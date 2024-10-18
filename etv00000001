@@ -1,0 +1,542 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" tvg-name="ETv | Willax" group-title="Tv Nacional", ETv | Willax 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/289350.m3u8
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" tvg-name="ETv | América" group-title="Tv Nacional", ETv | America
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" tvg-name="ETv | Latina" group-title="Tv Nacional", ETv | Latina 
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" tvg-name="ETv | Panamericana" group-title="Tv Nacional", ETv | Panamericana 
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" tvg-name="ETv | ATV" group-title="Tv Nacional", ETv | ATV 
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" tvg-name="ETv | ATV+" group-title="Tv Nacional", ETv | ATV+ 
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675976398932/1c3cb9d0e0c4_480_270.png" tvg-name="ETv | TV Perú" group-title="Tv Nacional", ETv | TV Perú 
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-1 group-title="Tv Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png", ETv | CANAL N
+http://galaxypro.online:8080/live/Francisco244/Garcia244/271213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpchOaO.png" tvg-name="ETv | Movistar Plus" group-title="Tv Nacional", ETv | Movistar Plus
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99679.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpchOaO.png" tvg-name="ETv | Perú Magico" group-title="Tv Nacional", ETv | Perú Magico
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99683.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpchOaO.png" tvg-name="ETv | RPP" group-title="Tv Nacional", ETv | RPP
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99684.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png"  tvg-name="ETv | Exitosa" group-title="Tv Nacional", ETv | Exitosa 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/374919.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" tvg-name="ETv | USMP TV" group-title="Tv Nacional", ETv | USMP TV 
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png"  tvg-name="ETv | Nativa TV" group-title="Tv Nacional", ETv | Nativa TV 
+https://www.ntv.pe/salida/nativa.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/CONECTA2_TV_001.png" tvg-name="ETv | Conecta2" group-title="Tv Nacional", ETv | Conecta2
+https://ott1.hdlatam.tv/live/conect2tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxxx" tvg-name="ETv | Justicia TV" group-title="Tv Regionales", ETv | Justicia TV 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/93741.m3u8
+#EXTINF:-1 tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" tvg-name="ETv | PBO TV" group-title="Tv Nacional", ETv | PBO TV 
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="ETv | Viva Tv" group-title="Tv Nacional", ETv | Viva Tv
+http://galaxypro.online:8080/live/Francisco244/Garcia244/207045.m3u8
+#EXTINF:-1 tvg-name="ETv | Asiri Tv" group-title="Tv Nacional", ETv | Asiri Tv
+http://galaxypro.online:8080/live/Francisco244/Garcia244/220779.m3u8
+#EXTINF:-1 tvg-name="ETv | Cultura24" group-title="Tv Nacional", ETv | Cultura24
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99653.m3u8
+#EXTINF:-1 tvg-name="ETv | Global Tv" group-title="Tv Nacional", ETv | Global Tv
+http://galaxypro.online:8080/live/Francisco244/Garcia244/93953.m3u8
+#EXTINF:-1 tvg-name="ETv | IPE" group-title="Tv Nacional", ETv | IPE
+http://galaxypro.online:8080/live/Francisco244/Garcia244/293551.m3u8
+#EXTINF:-1 tvg-name="ETv | Karibeña" group-title="Tv Nacional", ETv | Karibeña
+http://galaxypro.online:8080/live/Francisco244/Garcia244/215079.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="ETv | MasterHD" tvg-logo="https://etv-canales-digitales.000webhostapp.com/MasterHD.jpg" group-title="Tv Regionales", ETv | MasterHD
+https://s1.tvdatta.com:3489/live/mastertvhdlive.m3u8
+#EXTINF:-1 tvg-name="ETv | Tropical TV" tvg-logo="https://etv-canales-digitales.000webhostapp.com/img/tropicaltv.png" group-title="Tv Regionales", ETv | Tropical TV
+https://tv.oyotunserver.com:3794/live/jotalive.m3u8
+#EXTINF:-1 tvg-name="ETv | UriolTV" tvg-logo="https://etv-canales-digitales.000webhostapp.com/img/urioltv.png" group-title="Tv Regionales", ETv | UriolTV
+https://ott1.hdlatam.tv/live_abr/UriolTV_PM/playlist.m3u8
+#EXTINF:-1 tvg-name="ETv | Ribereña" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/06/05/06/1717545289942/f1b376bf4fd4_480_270.jpg" group-title="Tv Regionales", ETv | Ribereña
+https://v4.tustreaming.cl/atmtv/index.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3757213
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/trivu.jpg" tvg-name="ETv | Tribu" group-title="Tv Regionales", ETv | Trivu 
+https://ott1.hdlatam.tv/live/hi2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5jxzr2.png" tvg-name="ETv | Identidad Tv" group-title="Tv Regionales", ETv | Identidad Tv
+https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" tvg-name="ETv | Antares Tv" group-title="Tv Regionales", ETv | Antares Tv
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/bhtv2.jpg" tvg-name="ETv | Boh Tv" group-title="Tv Regionales", ETv | Boh Tv
+https://ott1.hdlatam.tv/live/BHTV/chunks.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/liketv.jpeg" tvg-name="ETv | Like Tv" group-title="Tv Regionales", ETv | Like Tv
+https://ott1.hdlatam.tv/live/Fuego_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/166179/mobileicon/2a8078abdeff51f1d2107b10fa56c1c9.png" tvg-name="ETv | Matices Tv" group-title="Tv Regionales", ETv | Matices Tv 
+https://play.agenciastreaming.com:8081/maticestv/index.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/gamarratv.jpeg" tvg-name="ETv | Gamarra Channel" group-title="Tv Regionales", ETv | Gamarra Channel
+https://ott1.hdlatam.tv/live/mwG4m4rr4_chann3l/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/asiris.jpeg" tvg-name="ETv | Asiris Tv" group-title="Tv Regionales", ETv | Asiris Tv
+https://ott1.hdlatam.tv/live/asiri_tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/fulltvn.jpg" tvg-name="ETv | Full Tv" group-title="Tv Regionales", ETv | Full Tv
+https://ott1.hdlatam.tv/live/Fulltv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2023-11-08_at_4.06.38_PM.jpeg" tvg-name="ETv | Digital TVGo" group-title="Tv Regionales", ETv | Digital TVGo
+https://ott1.hdlatam.tv/live/DigitalTvGoHDPLAY/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_3.png" tvg-name="ETv | Onda Digital Tv" group-title="Tv Regionales", ETv | Onda Digital Tv
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_VISION_SUR_AREQUIPA_D5ez3wJ.jpg" tvg-name="ETv | Vision Sur" group-title="Tv Regionales", ETv | Vision Sur
+https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_TV_TPP_GO_SIN_FONDO.jpg" tvg-name="ETv | Tarapoto Tv" group-title="Tv Regionales", ETv | Tarapoto Tv
+https://ott1.hdlatam.tv/live_abr/TVTARAPOTO/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/TVMUNDOCUZCO.png" tvg-name="ETv | Tv Mundo" group-title="Tv Regionales", ETv | Tv Mundo
+https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" tvg-name="ETv | Inka Vision" group-title="Tv Regionales", ETv | Inka Vision
+https://ott1.hdlatam.tv/live_abr/QosQ0_InK4vis10n/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/creo_tv.jpg" tvg-name="ETv | Creo Tv" group-title="Tv Regionales", ETv | Creo Tv
+https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/3.png" tvg-name="ETv | Tv Wanka Canal 21" group-title="Tv Regionales", ETv | Tv Wanka Canal 21
+https://ott1.hdlatam.tv/live/huancayo/canal21/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_CADENA_TV_HUANCAYO.png" tvg-name="ETv | CadenaTv" group-title="Tv Regionales", ETv | CadenaTv
+https://ott1.hdlatam.tv/live_abr/C4dena_TV/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" tvg-name="ETv | PiuraTv" group-title="Tv Regionales", ETv | PiuraTv
+https://live.obslivestream.com/piuratv/index.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ONDA_DIGITAL_TV_Lima.png" tvg-name="ETv | OndaDigital" group-title="Tv Regionales", ETv | OndaDigital
+https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/CajamarcaTV.png" tvg-name="ETv | CajamarcaTv" group-title="Tv Regionales", ETv | CajamarcaTv
+https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_VIA_TELEVISION_TARAPOTO.png" tvg-name="ETv | ViaTv" group-title="Tv Regionales", ETv | ViaTv
+https://ott1.hdlatam.tv/live/via_Tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/tvenLinea.jpeg" tvg-name="ETv | TvenLinea Cusco" group-title="Tv Regionales", ETv | TvenLinea Cusco
+https://ott1.hdlatam.tv/live/Tv3nLi3a_Cusc0mtONP/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/geniostv_oZIbTk1.jpg" tvg-name="ETv | GeniosTv" group-title="Tv Regionales", ETv | GeniosTv
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_AUT%C3%89NTICA__V._PRINCIPAL.png" tvg-name="ETv | Autentica Tv" group-title="Tv Regionales", ETv | Autentica Tv
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1  tvg-logo="http://core1.hdlatam.tv/media/images/channel/ucayalitv.jpg" tvg-name="ETv | Ucayali Tv" group-title="Tv Regionales", ETv | Ucayali Tv
+https://ott1.hdlatam.tv/live/Ucayalitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/telelima.jpg" tvg-name="ETv | TeleLima" group-title="Tv Regionales", ETv | TeleLima 
+https://ott1.hdlatam.tv/live/T3l3_hyL1M4UYNB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/04/1675976979325/8b5c5f7b1cee_640_360.png" tvg-name="ETv | Ovacion" group-title="Tv Regionales", ETv | Ovacion 
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/02/1716579105750/a54987e173df_640_360.jpg" tvg-name="ETv | Tv Cosmos" group-title="Tv Regionales", ETv | Tv Cosmos 
+https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/02/07/03/1707250565485/38b441807be3_480_270.png" tvg-name="ETv | CTV Perú" group-title="Tv Regionales", ETv | CTV Perú 
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-name="ETv | Señal Peru tv" group-title="Tv Regionales", ETv | Señal Peru tv
+https://livestream.perucast.com/hls/stream_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtNkuAc.png" tvg-name="ETv | Sol Tv" group-title="Tv Regionales", ETv | Sol Tv
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" tvg-name="ETv | Super Canal" group-title="Tv Regionales", ETv | Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" tvg-name="ETv | Uranio" group-title="Tv Regionales", ETv | Uranio
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KcpOEU.png" tvg-name="ETv | VZ Tv" group-title="Tv Regionales", ETv | VZ Tv
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqKlBq2.png" tvg-name="ETv | HoyNet Tv" group-title="Tv Regionales", ETv | HoyNet Tv
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" tvg-name="ETv | Impacto Tv" group-title="Tv Regionales", ETv | Impacto Tv
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" tvg-name="ETv | Mega Tv" group-title="Tv Regionales", ETv | Mega Tv
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png" tvg-name="ETv | MegaTv Jaen" group-title="Tv Regionales", ETv | MegaTv Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" tvg-name="ETv | Millenium " group-title="Tv Regionales", ETv | Millenium 
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ad0GNqa.png" tvg-name="ETv | Nacional Tv" group-title="Tv Regionales", ETv | Nacional Tv
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87ObrJO.png" tvg-name="ETv | NorSelva Tv" group-title="Tv Regionales", ETv | NorSelva Tv
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CN2j8S3.png" tvg-name="ETv | NovaStar" group-title="Tv Regionales", ETv | NovaStar
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EoLhvBN.png" tvg-name="ETv | Planea Tv" group-title="Tv Regionales", ETv | Planea Tv
+https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1 group-title="Tv Regionales" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" tvg-name="ETv | " , ETv | TV AGRO
+http://redima.pro:8880/5555/5555/429
+#EXTINF:-1 group-title="Tv Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" tvg-name="ETv | TELESUR" , ETv | TELESUR
+http://redima.pro:8880/5555/5555/446
+#EXTINF:-1 group-title="Tv Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="ETv | TELEAMAZONAS 2" , ETv | TELEAMAZONAS 2
+http://redima.pro:8880/5555/5555/452
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Canal 8 Catacaos" group-title="Tv Regionales", ETv | Canal 8 Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Unitel" group-title="Tv Regionales", ETv | Unitel
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Ucayalina" group-title="Tv Regionales", ETv | Ucayalina
+https://video.agenciastreaming.com:3959/live/utvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/liga_1_max.webp" group-title="Deportes", ETv | Liga 1
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99801.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/liga_1_max.webp" group-title="Deportes", ETv | Liga 1 Max
+http://galaxypro.online:8080/live/Francisco244/Garcia244/375250.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/liga_1_max.webp" group-title="Deportes", ETv | Liga 1 Max
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103257.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | Gol Perú
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99667.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | Gol Perú
+http://galaxypro.online:8080/live/Francisco244/Garcia244/233309.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | Movistar Deportes
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99677.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | Movistar Deportes
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99678.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | Gol Tv
+http://galaxypro.online:8080/live/Francisco244/Garcia244/264561.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99658.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 2 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99659.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 3 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99660.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 4 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/235410.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 5 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99663.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 6 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99665.m3u8
+
+#EXTINF:-1 group-title="Deportes", ETv | ESPN 7 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99664.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/dsports_2.webp" group-title="Deportes", ETv | DSports 2
+http://galaxypro.online:8080/live/Francisco244/Garcia244/99656.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/dsports_plus.webp" group-title="Deportes", ETv | DSports+
+http://galaxypro.online:8080/live/Francisco244/Garcia244/49786.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/fox_sports_1.webp" group-title="Deportes", ETv | Fox Sports
+http://galaxypro.online:8080/live/Francisco244/Garcia244/243052.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibretv.pe/img/logo-canal/fox_sports_2.webp" group-title="Deportes", ETv | Fox Sports 2
+http://galaxypro.online:8080/live/Francisco244/Garcia244/280930.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png"  tvg-name="ETv | Sony Cine" group-title="Peliculas y Series", ETv |Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" tvg-name="ETv | +Cine" group-title="Peliculas y Series", ETv | +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" tvg-name="ETv | Old" group-title="Peliculas y Series", ETv | Old
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://image.roku.com/developer_channels/prod/1501b86df311ec17bcc3056e6e1602f2c0c192153332e9325714e14263893c93.png" tvg-name="ETv | RUN TIME TERROR" , ETv | RUN TIME TERROR
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" tvg-name="ETv | TCM" , ETv | TCM
+http://redima.pro:8880/5555/5555/371
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg/revision/latest/scale-to-width-down/300?cb=20191017031407" tvg-name="ETv | RAKUTEN TV" , ETv | RAKUTEN TV
+https://rakuten-romance-2-es.xiaomi.wurl.tv:443/4300.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Times_Prime.jpg/revision/latest/scale-to-width-down/300?cb=20210624153517" tvg-name="ETv | MY TIME MOVIE NETWORK" , ETv | MY TIME MOVIE NETWORK
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/FilmRise.svg/revision/latest/scale-to-width-down/250?cb=20200925212753" tvg-name="ETv | FILMRISE ESPAÑOL" , ETv | FILMRISE ESPAÑOL
+https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-name="ETv | RAKUTEN ACTION MOVIES" , ETv | RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" tvg-name="ETv | AMC" , ETv | AMC
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94113.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" tvg-name="ETv | DPELICULAS" , ETv | DPELICULAS
+http://redima.pro:8880/5555/5555/376
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" tvg-name="ETv | WARNER CHANNEL" , ETv | WARNER CHANNEL
+http://redima.pro:8880/live/5555/5555/391.m3u8
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" tvg-name="ETv | UNIVERSAL CINEMA" , ETv | UNIVERSAL CINEMA
+http://redima.pro:8880/5555/5555/445
+
+#EXTINF:-1 group-title="Peliculas y Series" tvg-name="ETv | Universal Premier" , ETv | Universal Premier
+http://galaxypro.online:8080/live/Francisco244/Garcia244/237080.m3u8
+
+#EXTINF:-1 tvg-id="HGTVLA" tvg-name="CINE HD | Star Channel " tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Peliculas y Series",CINE HD | Star Channel 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/282694.m3u8
+
+#EXTINF:-1 tvg-id="STULA" tvg-name="CINE HD | Studio Universal " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STUDIOUNIVERSAL.jpg" group-title="Peliculas y Series",CINE HD | Studio Universal 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/49798.m3u8
+
+#EXTINF:-1 tvg-id="AEAHAM" tvg-name="CINE HD | A&E" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AE.png" group-title="Peliculas y Series",CINE HD | A&E
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94112.m3u8
+
+#EXTINF:-1 tvg-id="AMCAAMC" tvg-name="CINE HD | AMC " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" group-title="Peliculas y Series",CINE HD | AMC 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94113.m3u8
+
+#EXTINF:-1 tvg-id="AXNAHA" tvg-name="CINE HD | AXN " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="Peliculas y Series",CINE HD | AXN 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94115.m3u8
+
+#EXTINF:-1 tvg-id="CCL" tvg-name="CINE HD | Cinecanal" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINECANAL.png" group-title="Peliculas y Series",CINE HD | Cinecanal
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94116.m3u8
+
+#EXTINF:-1 tvg-id="MAXPANH" tvg-name="CINE HD | Cinemax " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINEMAX.png" group-title="Peliculas y Series",CINE HD | Cinemax 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94118.m3u8
+
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="CINE HD | Golden Plus" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENPLUS.png" group-title="Peliculas y Series",CINE HD | Golden Plus
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94122.m3u8
+
+#EXTINF:-1 tvg-id="PARALN" tvg-name="CINE HD | Paramount Channel America " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ESPANA/PARAMOUNTNETWORK.png" group-title="Peliculas y Series",CINE HD | Paramount Channel America 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94125.m3u8
+
+#EXTINF:-1 tvg-id="SPACBLK" tvg-name="CINE HD | SPACE America" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png" group-title="Peliculas y Series",CINE HD | SPACE America
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94127.m3u8
+
+#EXTINF:-1 tvg-id="TCMAAM" tvg-name="CINE SD | TCM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png" group-title="Peliculas y Series",CINE SD | TCM
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94128.m3u8
+#EXTINF:-1 tvg-id="TNTL" tvg-name="CINE HD | TNT Latin America " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TNT.png" group-title="Peliculas y Series",CINE HD | TNT Latin America 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94130.m3u8
+
+#EXTINF:-1 tvg-id="TNTSEAM" tvg-name="CINE HD | TNT Series America" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TNTSERIES.png" group-title="Peliculas y Series",CINE HD | TNT Series America
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94131.m3u8
+
+#EXTINF:-1 tvg-id="WARHAM" tvg-name="CINE HD | Warner TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="Peliculas y Series",CINE HD | Warner TV
+http://galaxypro.online:8080/live/Francisco244/Garcia244/94132.m3u8
+
+#EXTINF:-1 tvg-id="UNILAHD" tvg-name="CINE HD | Universal Channel " tvg-logo="http://fanc.tmsimg.com/assets/s53218_h3_aa.png" group-title="Peliculas y Series",CINE HD | Universal Channel 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103943.m3u8
+
+#EXTINF:-1 tvg-id="GLDEDAM" tvg-name="CINE FHD | GOLDEN EDGE-" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png" group-title="Peliculas y Series",CINE FHD | GOLDEN EDGE-
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103947.m3u8
+
+#EXTINF:-1 tvg-id="GLDEN" tvg-name="CINE FHD | GOLDEN 1" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDEN.png" group-title="Peliculas y Series",CINE FHD | GOLDEN 1
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103948.m3u8
+
+#EXTINF:-1 tvg-id="DEPE2" tvg-name="CINE FHD | DE PELICULA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/DEPELICULAS.png" group-title="Peliculas y Series",CINE FHD | DE PELICULA
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103952.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STARCHANNEL.png" group-title="Peliculas y Series",CINE HD | STAR CHANNEL
+http://galaxypro.online:8080/live/Francisco244/Garcia244/135556.m3u8
+
+#EXTINF:-1 tvg-id="FXL" tvg-name="CINE: FX MOVIES" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/FX.png" group-title="Peliculas y Series",CINE: FX MOVIES
+http://galaxypro.online:8080/live/Francisco244/Garcia244/138895.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="Peliculas y Series",CINE | HBO
+http://galaxypro.online:8080/live/Francisco244/Garcia244/172580.m3u8
+
+#EXTINF:-1 tvg-id="HBOXA2" tvg-name="HBO XTREME." tvg-logo="http://stalkertvlatinoplay.com/LOGOS/USAMOVIECHANNELS/HBOSIGNATURE.png" group-title="Peliculas y Series",HBO XTREME.
+http://galaxypro.online:8080/live/Francisco244/Garcia244/237110.m3u8
+
+#EXTINF:-1 tvg-id="HBOSDA" tvg-name="HBO SIGNATURE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOSIGNATURE.png" group-title="Peliculas y Series",HBO SIGNATURE
+http://galaxypro.online:8080/live/Francisco244/Garcia244/237114.m3u8
+
+#EXTINF:-1 tvg-id="POPLA" tvg-name="HBO POP" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png" group-title="Peliculas y Series",HBO POP
+http://galaxypro.online:8080/live/Francisco244/Garcia244/237115.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOMUNDI.png" group-title="Peliculas y Series",HBO MUNDI
+http://galaxypro.online:8080/live/Francisco244/Garcia244/280932.m3u8
+
+#EXTINF:-1 tvg-id="HBOPPHD" tvg-name="HBO Plus" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="Peliculas y Series",HBO Plus
+http://galaxypro.online:8080/live/Francisco244/Garcia244/281094.m3u8
+
+#EXTINF:-1 tvg-id="DHBOFAM" tvg-name="CINE: HBO Family" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/USAMOVIECHANNELS/HBOFAMILY.png" group-title="Peliculas y Series ",CINE: HBO Family
+http://galaxypro.online:8080/live/Francisco244/Garcia244/172581.m3u8
+
+#EXTINF:-1 tvg-id="CINSONY" tvg-name="CINE HD | Sony Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="Peliculas y Series",CINE HD | Sony Channel
+http://galaxypro.online:8080/live/Francisco244/Garcia244/223499.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8nLe91.jpeg" tvg-name="ETv | Sony One Sharktank" group-title="Entretenimiento", ETv | Sony One Sharktank
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-name="ETv | MTV ACAPULCO SHORE PTV" , ETv | MTV ACAPULCO SHORE PTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" tvg-name="ETv | NOSE Y ESCANDALOS" , ETv | NOSE Y ESCANDALOS
+https://nosey-3-us.plex.wurl.tv:443/4300.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" tvg-name="ETv | Distrito Comedia" group-title="Entretenimiento", ETv | Distrito Comedia 
+http://45.5.117.182:8000/play/ihf9/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name=" ETv | History 2 " tvg-logo="https://i.ibb.co/RYx6chN/Logos-galaxy-20240618-092048-0000.png" group-title="Documentales", ETv | History 2 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/95173.m3u8
+#EXTINF:-1 tvg-id="DHCLCO" tvg-name=" ETv | History Channel " tvg-logo="https://i.ibb.co/yRszF7M/Logos-galaxy-20240618-101257-0000.png" group-title="Documentales", ETv | History Channel 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/95174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ETv | Nat Geo " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="Documentales", ETv | Nat Geo 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/95175.m3u8
+#EXTINF:-1 tvg-id="DTHLAHA" tvg-name=" ETv | Discovery Theater " tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/discovery-theatre-hd.png" group-title="Documentales", ETv | Discovery Theater 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/95220.m3u8
+#EXTINF:-1 tvg-id="CESTREL" tvg-name=" ETv | CANAL DE LAS ESTRELLAS|" tvg-logo="http://fanc.tmsimg.com/assets/s65064_ll_h3_af.png" group-title="Documentales", ETv | CANAL DE LAS ESTRELLAS|
+http://galaxypro.online:8080/live/Francisco244/Garcia244/103868.m3u8
+#EXTINF:-1 tvg-id="TRULAHD" tvg-name=" ETv | TRUTV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TRUTV.png" group-title="Documentales", ETv | TRUTV
+http://galaxypro.online:8080/live/Francisco244/Garcia244/222011.m3u8
+#EXTINF:-1 tvg-id="Animal Planet (Animal Planet HD)" tvg-name=" ETv | Animal Planet " tvg-logo="https://i.ibb.co/BztwTdL/Logos-galaxy-20240618-075911-0000.png" group-title="Documentales", ETv | Animal Planet 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/247691.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL VENEZUELA (Discovery Channel)" tvg-name=" ETv | Discovery Channel " tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/49/Discovery_Channel_2009.png" group-title="Documentales", ETv | Discovery Channel 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/247692.m3u8
+#EXTINF:-1 tvg-id="DSCIEAM" tvg-name=" ETv | Discovery Science " tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/33/Discovery_Science_%282017-.n.v.%29.png" group-title="Documentales", ETv | Discovery Science 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/247696.m3u8
+#EXTINF:-1 tvg-id="TLC (TLC)" tvg-name=" ETv | TLC" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="Documentales", ETv | TLC
+http://galaxypro.online:8080/live/Francisco244/Garcia244/247701.m3u8
+#EXTINF:-1 tvg-id="Canal Elgourmet" tvg-name="ETv | Gourmet" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b6/Elgourmet_2015.png" group-title="Documentales", ETv | Gourmet 
+http://galaxypro.online:8080/live/Francisco244/Garcia244/269854.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="ETv | Animal Planet" group-title="Documentales", ETv | Animal Planet 
+http://168.181.122.234:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" tvg-name="ETv | Love Nature 4K" group-title="Documentales", ETv | Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+
+
+
+ 
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517Sl4HUzUL.jpg" tvg-name="ETv | Paw Patrol" group-title="Infantiles", ETv | Paw Patrol
+http://home-playtv.com:8080/live/IsmaelAlvarado/GPFMJ/108007.m3u8
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_beb_jefazo_Vuelta_al_curro_Serie_de_TV-721264653-large.jpg" tvg-name="ETv | El Bebe Jefazo️" group-title="Infantiles", ETv | El Bebe Jefazo️
+http://home-playtv.com:8080/live/IsmaelAlvarado/GPFMJ/107981.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/560/589/png-transparent-skipper-penguin-madagascar-madagascar-animals-desktop-wallpaper-bird.png" tvg-name="ETv | Pingüinos de Madagascar" group-title="Infantiles", ETv | Pingüinos de Madagascar 
+http://home-playtv.com:8080/live/IsmaelAlvarado/GPFMJ/177118.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-name="ETv | Disney Channel" group-title="Infantiles", ETv | Disney Channel
+http://galaxypro.online:8080/live/Francisco244/Garcia244/229111.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-name="ETv | Nick Jr" group-title="Infantiles", ETv | Nick Jr.
+http://galaxypro.online:8080/live/Francisco244/Garcia244/228952.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true" tvg-name="ETv | Nickelodeon" group-title="Infantiles", ETv | Nickelodeon
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/161034.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONITO1.png?raw=true" tvg-name="ETv | Cartoonito" group-title="Infantiles", ETv | Cartoonito
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19474
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYKIDS.png?raw=true" tvg-name="ETv | Discovery Kids" group-title="Infantiles", ETv | Discovery Kids
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4791.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJUNIORS.png?raw=true" tvg-name="ETv | Disney Junior" group-title="Infantiles", ETv | Disney Junior
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3849.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PAKAPAKA.png?raw=true" tvg-name="ETv | PakaPaka" group-title="Infantiles", ETv | PakaPaka
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3537.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true" tvg-name="ETv | Cartoon Network" group-title="Infantiles", ETv | Cartoon Network
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/149674.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BABYTV.png?raw=true" tvg-name="ETv | BabyTV" group-title="Infantiles", ETv | BabyTV
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/56214
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BABYFIRST.png?raw=true" tvg-name="ETv | BabyFirst" group-title="Infantiles", ETv | BabyFirst
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9419
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLIMPLIM.png?raw=true" tvg-name="ETv | Plim Plim TV" group-title="Infantiles", ETv | Plim Plim TV
+http://38.41.8.1:8000/play/a0b2
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true" tvg-name="ETv | Tooncast" group-title="Infantiles", ETv | Tooncast
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/5064.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/23/1723566026507/5ebdbdb3f8fa_480_270.png" tvg-name="ETv | Anime Onegai" group-title="Infantiles", ETv | Anime Onegai 
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675974876113/58118c7fb03d_480_270.png" tvg-name="ETv | FunBox" group-title="Infantiles", ETv | FunBox 
+https://live-evg25.tv360.bitel.com.pe/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.postimg.cc/j2Z91VYw/Toonami.jpg" tvg-name="ETv | TOONAMI" , ETv | TOONAMI
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EZK59J.jpg" tvg-name="ETv | Pandamax" group-title="Infantiles", ETv | Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="xxxxx" tvg-name="ETv | TVE Internacional" , ETv | TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" tvg-name="ETv | CANAL 24H" , ETv | CANAL 24H
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/js/homescreen/icon.png" tvg-name="ETv | RT" group-title="Internacional", ETv | RT 
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" tvg-name="ETv | Univisión" group-title="Internacional", ETv | Univisión 
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" tvg-name="ETv | DW" group-title="Entretenimiento", ETv | DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-name="ETv | DW EN ESPANOL" , ETv | DW EN ESPANOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.imgur.com/Og17U9N.png" tvg-name="ETv | ADN40" , ETv | ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | 5TV Corrientes" group-title="Internacional", ETv | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Canal 10" group-title="Internacional", ETv | Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Net TV" group-title="Internacional", ETv | Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Estrella News" group-title="Internacional", ETv | Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://etv-canales-digitales.000webhostapp.com/Etvlogo.jpg" tvg-name="ETv | Estrella TV" group-title="Internacional", ETv | Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7afuOiE.png" tvg-name="ETv | Bayres TV" group-title="Internacional", ETv | Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" tvg-name="ETv | Origen" group-title="Internacional", ETv | Origen
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-name="ETv | Tlenovelas" group-title="Novelas", ETv | Tlenovelas 
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" tvg-name="ETv | Sony Novelas" group-title="Novelas", ETv | Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" tvg-name="ETv | Corazón" group-title="Novelas", ETv | Corazón
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-name="ETv | Novelisima" group-title="Novelas", ETv | Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" tvg-name="ETv | Trace Latina" group-title="Musica", ETv | Trace Latina
+https://cdn-uw2-prod.m3u8v2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" tvg-name="ETv | El Canal de la Musicaa" group-title="Musica", ETv | El Canal de la Musicaa
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/30/00/1717004105729/50d35a224933_480_270.jpg" tvg-name="ETv | Top Latino" group-title="Musica", ETv | Top Latino
+https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3757213
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quKfcIC.jpg" tvg-name="ETv | Venus Media TV" group-title="Musica", ETv | Venus Media TV
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" tvg-name="ETv | Teleritmo" group-title="Musica", ETv | Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanbJojQSC5Ikbuo1bQfBXD28Z2JKO7QxZ2w&usqp=CAU" tvg-name="ETv | CONCERT CHANNEL" , ETv | CONCERT CHANNEL
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
